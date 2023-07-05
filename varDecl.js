@@ -1,2 +1,3 @@
 let num=80;
-console.log(num);
+let num2=90;
+console.log(num+num2);
